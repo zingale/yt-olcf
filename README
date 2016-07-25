@@ -1,0 +1,32 @@
+Making an IPython presetation using reveal.js (non-interactive)
+
+1. install later jupyter:
+
+   pip install jupyter --user  (this gets 4.2.1)
+
+2. enable the "Cell Tool Bar" -- select "slide show"
+
+3. markdown cells for lists, etc.
+
+4. identify slides and subslides
+
+5. jupyter nbconvert yt-presentation.ipynb --to slides --post serve
+
+
+references:
+
+http://neuroscience.telenczuk.pl/?p=607
+
+http://www.oliversherouse.com/2015/10/27/jupyter_slideshows.html
+
+http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc
+
+customizing:
+
+  http://www.damian.oquanta.info/posts/customizing-your-ipython-slides.html
+
+  (create a custom.css in your directory)
+
+  http://www.damian.oquanta.info/categories/slideshow.html
+
+
