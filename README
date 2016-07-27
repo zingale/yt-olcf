@@ -13,6 +13,10 @@ Making an IPython presetation using reveal.js (non-interactive)
 5. jupyter nbconvert yt-presentation.ipynb --to slides --post serve
 
 
+note: if you change things in the custom.css, you might need to clean
+the cache of the browser
+
+
 references:
 
 http://neuroscience.telenczuk.pl/?p=607
