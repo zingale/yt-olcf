@@ -1,3 +1,10 @@
+This is a presentation given during the OLCF Users Call in July 2016
+on using yt (http://yt-project.org) for batch visualization.
+
+----
+
+
+
 Making an IPython presetation using reveal.js (non-interactive)
 
 1. install later jupyter:
@@ -13,7 +20,7 @@ Making an IPython presetation using reveal.js (non-interactive)
 5. jupyter nbconvert yt-presentation.ipynb --to slides --post serve
 
 
-references:
+references for IPython presentation mode:
 
 http://neuroscience.telenczuk.pl/?p=607
 
