@@ -22,6 +22,9 @@ Making an IPython presetation using reveal.js (non-interactive)
 
 references for IPython presentation mode:
 
+note: if you change things in the custom.css, you might need to clean
+the cache of the browser
+
 http://neuroscience.telenczuk.pl/?p=607
 
 http://www.oliversherouse.com/2015/10/27/jupyter_slideshows.html
